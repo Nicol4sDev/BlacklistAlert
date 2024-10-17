@@ -1,0 +1,8 @@
+## Interface: 11504
+## Title: BlacklistAlert
+## Notes: An addon just to alert if you are in a group with someone of your blacklist.
+## Author: MilaMila
+## Version: 1.0
+## SavedVariables: BlacklistAlertDB
+
+BlacklistAlert.lua
